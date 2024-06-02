@@ -1,5 +1,6 @@
 site_name: My Wiki
 nav:
   - Home: index.md
+  - About: about.md
 theme:
   name: material
